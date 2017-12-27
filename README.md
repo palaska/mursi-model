@@ -1,0 +1,4 @@
+- Install mysql, run daemon
+- Install create a db user, update worker.py with credentials
+- Install rabbitmq, run it locally
+- Run run.py
